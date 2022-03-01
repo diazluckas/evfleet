@@ -1,0 +1,20 @@
+,0
+weights,"(1.0, 1.0, 1.0, 0.0)"
+num_individuals,90
+max_generations,170
+CXPB,0.6
+MUTPB,0.4
+hard_penalization,10000
+elite_individuals,1
+tournament_size,5
+algorithm_name,OffGA
+a0,20
+a1,4.0
+a2,3.0
+b0,30
+b1,8.0
+b2,6.0
+r,2
+alpha_up,95.0
+crossover_repeat,1
+mutation_repeat,1
